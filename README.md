@@ -1,3 +1,3 @@
 # Banking-App
 Using C++
-![alt text](Desktop/BankApp.png)
+![alt text](Images/BankApp.png)
