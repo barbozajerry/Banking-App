@@ -13,7 +13,7 @@ investment and its previously accumulated interest (interest on interest and pri
 • Number of Years: The number of years your investment has to grow
 • A way to see the data (for example: “Press any key to continue…”)
 
-![alt text](Images/BankApp.png)
+![alt text](Images/Bank_image1.png)
 
 What did you do particularly well?
 
@@ -24,5 +24,5 @@ What skills from this project will be particularly transferable to other project
 How did you make this program maintainable, readable, and adaptable?
 
 
-![alt text](Images/BankApp.png)
-![alt text](Images/BankApp2.png)
+![alt text](Images/Bank_image2.png)
+![alt text](Images/Bank_image3.png)
