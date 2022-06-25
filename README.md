@@ -13,7 +13,7 @@ investment and its previously accumulated interest (interest on interest and pri
 **• Number of Years:** The number of years your investment has to grow <br>
 **• A way to see the data (for example:** “Press enter to continue…”) <br>
 
-![alt text](Images/Bank_image1.png){height="200" width=60% }
+[[(Images/Bank_image1.png | width=50%]]
 <br> 
 After pressing enter, the console displays two static reports, the first one showing the year-end balance and year-end earned interest if no additional monthly deposits are made. The second shows the year-end balances and year-end earned interest based on the monthly deposit the user inputs. The following imaage is an example of how the program displays after these inputs are typed in and pressing eneter: 
 
