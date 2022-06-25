@@ -14,6 +14,11 @@ investment and its previously accumulated interest (interest on interest and pri
 **• A way to see the data (for example:** “Press enter to continue…”) <br>
 
 ![alt text](Images/Bank_image1.png)
+<br> 
+After pressing enter, the console displays two static reports, the first one showing the year-end balance and year-end earned interest if no additional monthly deposits are made. The second shows the year-end balances and year-end earned interest based on the monthly deposit the user inputs. The following imaage is an example of how the program displays after these inputs are typed in and pressing eneter: 
+
+![alt text](Images/Bank_image2.png)
+
 
 What did you do particularly well?
 
@@ -23,6 +28,4 @@ Which pieces of the code did you find most challenging to write, and how did you
 What skills from this project will be particularly transferable to other projects or course work?
 How did you make this program maintainable, readable, and adaptable?
 
-
-![alt text](Images/Bank_image2.png)
 ![alt text](Images/Bank_image3.png)
