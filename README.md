@@ -11,19 +11,24 @@ each month (a positive real number)<br>
 **• Annual Interest (Compounded):** Interest that is added to the principal sum of your
 investment and its previously accumulated interest (interest on interest and principal)<br>
 **• Number of Years:** The number of years your investment has to grow <br>
-**• A way to see the data (for example:** “Press enter to continue…”) <br>
+**• A way to see the data (for example:** “Press enter to continue . . .”) <br>
 
 <img src="Images/Bank_image1.png" width="50%">
 <br> 
-After pressing enter, the console displays two static reports, the first one showing the year-end balance and year-end earned interest if no additional monthly deposits are made. The second shows the year-end balances and year-end earned interest based on the monthly deposit the user inputs. The following imaage is an example of how the program displays after these inputs are typed in and pressing eneter: 
+After pressing enter, the console displays two static reports, the first one showing the year-end balance and year-end earned interest if no additional monthly deposits are made. The second shows the year-end balances and year-end earned interest based on the monthly deposit the user inputs. The following imaage is an example of how the program displays after these inputs are typed in and pressing eneter: <br>
 
 <img src="Images/Bank_image2.png" width="75%">
 
 <img src="Images/Bank_image3.png" width="75%">
 <br>
 
-<h3>What did you do particularly well?</h3>
+<h3>What did you do particularly well?</h3> 
+What I did good on this project was getting everything to work in order for the users to have an app that will help them with their investment journey. 
+<br>
 
+
+<h3>Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?</h3>
+I would enhance my code by making it as clean and fast possible. One very important thing is not just making the code easy to read but what is more important is making sure the interface is user freindly by being readable and understood to everyone. 
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
