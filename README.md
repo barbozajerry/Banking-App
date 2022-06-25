@@ -20,13 +20,17 @@ After pressing enter, the console displays two static reports, the first one sho
 <img src="Images/Bank_image2.png" width="75%">
 
 <img src="Images/Bank_image3.png" width="75%">
+<br>
 
-What did you do particularly well?
+<h3>What did you do particularly well?</h3>
 
 
 Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
-What skills from this project will be particularly transferable to other projects or course work?
-How did you make this program maintainable, readable, and adaptable?
+
+<h3>Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network? </h3>
+
+<h3>What skills from this project will be particularly transferable to other projects or course work?</h3>
+
+<h3>How did you make this program maintainable, readable, and adaptable?</h3>
 
 
