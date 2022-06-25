@@ -30,12 +30,15 @@ What I did good on this project was getting everything to work in order for the 
 <h3>Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?</h3>
 I would enhance my code by making it as clean and fast possible. One very important thing is not just making the code easy to read but what is more important is making sure the interface is user freindly by being readable and understood to everyone. 
 
-Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-
 <h3>Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network? </h3>
+
+The most challenging piece of code was making sure the user can only input positive values. However I was able to figure it out by searching some examples from stackoverflow. 
 
 <h3>What skills from this project will be particularly transferable to other projects or course work?</h3>
 
+A lot of great skills from this project will transfer to other future projects. My C++ skills improved with this project, I also learned skills related to finance on how to invest by being able to simulate how much I want to invest. 
+
 <h3>How did you make this program maintainable, readable, and adaptable?</h3>
+I was able to tranfer the skills I learned in this course (CS210) to help me making this program maintainable, readable and adaptable. 
 
 
