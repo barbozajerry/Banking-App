@@ -15,7 +15,8 @@ investment and its previously accumulated interest (interest on interest and pri
 
 <img src="Images/Bank_image1.png" width="50%">
 <br> 
-After pressing enter, the console displays two static reports, the first one showing the year-end balance and year-end earned interest if no additional monthly deposits are made. The second shows the year-end balances and year-end earned interest based on the monthly deposit the user inputs. The following imaage is an example of how the program displays after these inputs are typed in and pressing eneter: <br>
+After pressing enter, the console displays two static reports, the first one showing the year-end balance and year-end earned interest if no additional monthly deposits are made. The second shows the year-end balances and year-end earned interest based on the monthly deposit the user inputs. The following imaage is an example of how the program displays after these inputs are typed in and pressing eneter: 
+<br>
 
 <img src="Images/Bank_image2.png" width="75%">
 
